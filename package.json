@@ -1,0 +1,16 @@
+{
+  "name": "gulp-eslint",
+  "version": "1.0.0",
+  "description": "eslint를 사용하여 javascript 파일 검사",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-open": "^2.0.0"
+  }
+}
