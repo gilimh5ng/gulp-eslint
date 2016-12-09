@@ -1,0 +1,11 @@
+body {
+    color: #555;
+}
+
+.warning {
+    color: #f0ad4e;
+}
+
+.error {
+    color: #c9302c;
+}

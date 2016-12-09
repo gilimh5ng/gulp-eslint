@@ -24,3 +24,8 @@ gulp.task('lint', function() {
 gulp.task('default', ['lint'], function() {
     console.log('Finish!');
 });
+
+function a()
+{
+    console.log('d');
+}
